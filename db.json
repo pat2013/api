@@ -1,4 +1,4 @@
-[{
+{ "users" : [{
   "id": 1,
   "first_name": "Diann",
   "last_name": "Dimitriev"
@@ -19,3 +19,4 @@
   "first_name": "Maxie",
   "last_name": "Easterbrook"
 }]
+}
