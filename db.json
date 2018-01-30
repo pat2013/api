@@ -1,17 +1,7 @@
-{ "users" : [{
-  "id": 1,
-  "name": "Zacharias"
-}, {
-  "id": 2,
-  "name": "Germana"
-}, {
-  "id": 3,
-  "name": "Hayward"
-}, {
-  "id": 4,
-  "name": "Ari"
-}, {
-  "id": 5,
-  "name": "Clarence"
-}]
-}
+[
+            { "id": 11, "name": "Mr. Nice" },
+            { "id": 12, "name": "Narco" },
+            { "id": 13, "name": "Bombasto" },
+            { "id": 14, "name": "Celeritas" },
+            { "id": 15, "name": "Magneta" }
+          ]
