@@ -1,22 +1,17 @@
 { "users" : [{
   "id": 1,
-  "first_name": "Diann",
-  "last_name": "Dimitriev"
+  "name": "Zacharias"
 }, {
   "id": 2,
-  "first_name": "Upton",
-  "last_name": "Reddihough"
+  "name": "Germana"
 }, {
   "id": 3,
-  "first_name": "Irwinn",
-  "last_name": "Lethby"
+  "name": "Hayward"
 }, {
   "id": 4,
-  "first_name": "Sanson",
-  "last_name": "Clearie"
+  "name": "Ari"
 }, {
   "id": 5,
-  "first_name": "Maxie",
-  "last_name": "Easterbrook"
+  "name": "Clarence"
 }]
 }
